@@ -1,17 +1,19 @@
-site: Sidey
+site: Seb Beck
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: Seb Beck
+description: Energy and Politics
 twitter:
-  username: #yourusername
+  username: sebexor
   card: summary
   creator: #yourusername
 author:
   twitter: #yourusername
   name: #yourusername
   avatar:
-  email: #youremail
+  email: sebanalysis
   url: #yoururl
+github: 
+  username: sebanalysis
 permalink: pretty
 
 baseurl: ""

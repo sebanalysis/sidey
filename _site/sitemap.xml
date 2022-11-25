@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2022-11-25T02:06:05+01:00</lastmod>
+<lastmod>2022-11-25T02:25:37+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/search</loc>
-<lastmod>2022-11-25T02:06:05+01:00</lastmod>
+<lastmod>2022-11-25T02:25:37+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2022/11/13/bullshit-jobs</loc>
@@ -30,5 +30,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/2022-11-13-masculinity_pdf_1.pdf/</loc>
 </url>
 </urlset>

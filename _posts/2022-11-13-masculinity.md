@@ -54,15 +54,13 @@ In conclusion vast majority of people in the USA are doing entirely abstract job
 
 ### Bullshit Jobs
 In addition to their abstractness, a large minority of people across the western world believe their jobs are totally meaningless. 
-- UK, 37%, [YouGov, 2015](https://yougov.co.uk/topics/lifestyle/articles-reports/2015/08/12/british-jobs-meaningless) __Q: 'Is your job making a meaningful contribution to the world'__
-    - ✅'Is': 50%
-    - '❌Is not': 37%
-    - ❓'Don't know' 13%
-- USA, 24%, [YouGov, 2015](https://today.yougov.com/topics/lifestyle/articles-reports/2015/08/14/one-quarter-americans-think-their-jobs-are-meaning). __Q: 'Do you think that your job is or is not making a meaningful contribution to the world?'__
-    - ✅'Is': 63%
-    - '❌Is not': 24%
-    - ❓'Don't know' 17%
--  Netherlands, 40%. URL for the original poll broken (“[Vier op tien werknemers noemt werk zinloos](http://overhetnieuwewerken.nl/vier-op-tien-werknemers-noemt-werk-zinloos/) , accessed July 10, 2017"), but it is referenced in [this 2018 article](https://www.volkskrant.nl/columns-opinie/er-is-een-ongelooflijke-hoeveelheid-dode-tijd-bijgekomen~bcc09392/?referrer=https%3A%2F%2Fnews.ycombinator.com%2F) which I have extracted from the HTML and translated [in this PDF](/assets/2022-11-13-masculinity_pdf_1.pdf). It was apparently conducted by Schouten & Nelissen on 1,900 Dutch people after 2015 and claims the 40% of respondents replied that their job is meaningless. Although i'm unclear on the original question and response options.
+
+>In the UK, the question was 'Is your job making a meaningful contribution to the world'[YouGov, 2015](https://yougov.co.uk/topics/lifestyle/articles-reports/2015/08/12/british-jobs-meaningless)Is not': 37% with 'Is': at 50% and 'Don't know': 13%
+
+>In the US, the question was 'Do you think that your job is or is not making a meaningful contribution to the world?'[YouGov, 2015](https://today.yougov.com/topics/lifestyle/articles-reports/2015/08/14/one-quarter-americans-think-their-jobs-are-meaning) Is not': 24%Is': 63%, 
+    - ❓'Don't k
+
+>In the Netherlands, the question was URL for the original poll broken (“[Vier op tien werknemers noemt werk zinloos](http://overhetnieuwewerken.nl/vier-op-tien-werknemers-noemt-werk-zinloos/) , accessed July 10, 2017"), but it is referenced in [this 2018 article](https://www.volkskrant.nl/columns-opinie/er-is-een-ongelooflijke-hoeveelheid-dode-tijd-bijgekomen~bcc09392/?referrer=https%3A%2F%2Fnews.ycombinator.com%2F) which I have extracted from the HTML and translated [in this PDF](/assets/2022-11-13-masculinity_pdf_1.pdf). It was apparently conducted by Schouten & Nelissen on 1,900 Dutch people after 2015 and claims the 40% of respondents replied that their job is meaningless. Although i'm unclear on the original question and response options.
 
 All polls are difficult but this one particularly so because it is very sensitive to the exact phrasing of the question, should it focus on 'meaning', 'value', 'utility', 'importance'. All of these are sensitive to the individual's prejudices and self-image, and a comprehensive definition is not provided. Secondly, this question is an existential one as work gives structure and meaning to one's life. It is not trivial to attest that your life's work was wasted. Individuals are best placed to understand the value of their own role, but they are perhaps the most likely to defend it's importance, for the sake of their own ego and self-worth. But this means that then an individual claims his job is useless, we should believe him. 
 
@@ -111,4 +109,3 @@ Markovitz then summaries the class resentment that this produces:
 >Those that are excluded get appropriately angry and resentful and turn against the institutions, the professional companies, the forms of expertise, the schools that people on the outside correctly think are underwriting their disadvantage and exclusion. A populist like trump exploits that class resentment. Trump inherited a lot of money, but is not part of this system of training, education and professional certification that people correctly see as the principle source of their exclusion. Not his inheritance.
 > All the doctors and lawyers and bankers and CEOs and elite managers, who are training their kids and getting them into the best schools and buying houses in the best neighbourhoods and getting them into the best colleges is what keeps most Americans down.
 
-But on top of the purely economic wound, unlike mid-ce

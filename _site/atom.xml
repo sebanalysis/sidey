@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Sidey</title>
+ <title>Seb Beck</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-25T02:06:05+01:00</updated>
+ <updated>2022-11-25T02:25:37+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
-   <email></email>
+   <email>sebanalysis</email>
  </author>
 
  
@@ -131,23 +131,19 @@
 
 &lt;h3 id=&quot;bullshit-jobs&quot;&gt;Bullshit Jobs&lt;/h3&gt;
 &lt;p&gt;In addition to their abstractness, a large minority of people across the western world believe their jobs are totally meaningless.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;UK, 37%, &lt;a href=&quot;https://yougov.co.uk/topics/lifestyle/articles-reports/2015/08/12/british-jobs-meaningless&quot;&gt;YouGov, 2015&lt;/a&gt; &lt;strong&gt;Q: ‘Is your job making a meaningful contribution to the world’&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;✅’Is’: 50%&lt;/li&gt;
-      &lt;li&gt;‘❌Is not’: 37%&lt;/li&gt;
-      &lt;li&gt;❓’Don’t know’ 13%&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;USA, 24%, &lt;a href=&quot;https://today.yougov.com/topics/lifestyle/articles-reports/2015/08/14/one-quarter-americans-think-their-jobs-are-meaning&quot;&gt;YouGov, 2015&lt;/a&gt;. &lt;strong&gt;Q: ‘Do you think that your job is or is not making a meaningful contribution to the world?’&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;✅’Is’: 63%&lt;/li&gt;
-      &lt;li&gt;‘❌Is not’: 24%&lt;/li&gt;
-      &lt;li&gt;❓’Don’t know’ 17%&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Netherlands, 40%. URL for the original poll broken (“&lt;a href=&quot;http://overhetnieuwewerken.nl/vier-op-tien-werknemers-noemt-werk-zinloos/&quot;&gt;Vier op tien werknemers noemt werk zinloos&lt;/a&gt; , accessed July 10, 2017”), but it is referenced in &lt;a href=&quot;https://www.volkskrant.nl/columns-opinie/er-is-een-ongelooflijke-hoeveelheid-dode-tijd-bijgekomen~bcc09392/?referrer=https%3A%2F%2Fnews.ycombinator.com%2F&quot;&gt;this 2018 article&lt;/a&gt; which I have extracted from the HTML and translated &lt;a href=&quot;/assets/2022-11-13-masculinity_pdf_1.pdf&quot;&gt;in this PDF&lt;/a&gt;. It was apparently conducted by Schouten &amp;amp; Nelissen on 1,900 Dutch people after 2015 and claims the 40% of respondents replied that their job is meaningless. Although i’m unclear on the original question and response options.&lt;/li&gt;
-&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the UK, the question was ‘Is your job making a meaningful contribution to the world’&lt;a href=&quot;https://yougov.co.uk/topics/lifestyle/articles-reports/2015/08/12/british-jobs-meaningless&quot;&gt;YouGov, 2015&lt;/a&gt;Is not’: 37% with ‘Is’: at 50% and ‘Don’t know’: 13%&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the US, the question was ‘Do you think that your job is or is not making a meaningful contribution to the world?’&lt;a href=&quot;https://today.yougov.com/topics/lifestyle/articles-reports/2015/08/14/one-quarter-americans-think-their-jobs-are-meaning&quot;&gt;YouGov, 2015&lt;/a&gt; Is not’: 24%Is’: 63%, 
+    - ❓’Don’t k&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the Netherlands, the question was URL for the original poll broken (“&lt;a href=&quot;http://overhetnieuwewerken.nl/vier-op-tien-werknemers-noemt-werk-zinloos/&quot;&gt;Vier op tien werknemers noemt werk zinloos&lt;/a&gt; , accessed July 10, 2017”), but it is referenced in &lt;a href=&quot;https://www.volkskrant.nl/columns-opinie/er-is-een-ongelooflijke-hoeveelheid-dode-tijd-bijgekomen~bcc09392/?referrer=https%3A%2F%2Fnews.ycombinator.com%2F&quot;&gt;this 2018 article&lt;/a&gt; which I have extracted from the HTML and translated &lt;a href=&quot;/assets/2022-11-13-masculinity_pdf_1.pdf&quot;&gt;in this PDF&lt;/a&gt;. It was apparently conducted by Schouten &amp;amp; Nelissen on 1,900 Dutch people after 2015 and claims the 40% of respondents replied that their job is meaningless. Although i’m unclear on the original question and response options.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;All polls are difficult but this one particularly so because it is very sensitive to the exact phrasing of the question, should it focus on ‘meaning’, ‘value’, ‘utility’, ‘importance’. All of these are sensitive to the individual’s prejudices and self-image, and a comprehensive definition is not provided. Secondly, this question is an existential one as work gives structure and meaning to one’s life. It is not trivial to attest that your life’s work was wasted. Individuals are best placed to understand the value of their own role, but they are perhaps the most likely to defend it’s importance, for the sake of their own ego and self-worth. But this means that then an individual claims his job is useless, we should believe him.&lt;/p&gt;
 
@@ -205,7 +201,6 @@ Those that are excluded get appropriately angry and resentful and turn against t
 All the doctors and lawyers and bankers and CEOs and elite managers, who are training their kids and getting them into the best schools and buying houses in the best neighbourhoods and getting them into the best colleges is what keeps most Americans down.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;But on top of the purely economic wound, unlike mid-ce&lt;/p&gt;
 </content>
  </entry>
  
