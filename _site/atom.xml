@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Sidey</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-11-25T01:34:16+01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Political Wish List</title>
+   <link href="http://localhost:4000/2022/11/13/political-wish-list"/>
+   <updated>2022-11-13T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2022/11/13/political-wish-list</id>
+   <content type="html">&lt;!-- &lt;script type=&quot;text/javascript&quot; id=&quot;MathJax-script&quot; async
+  src=&quot;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&quot;&gt;
+&lt;/script&gt; --&gt;
+
+&lt;p&gt;Supporting a political party is like supporting a sports team. Even if you limited your concern to just 20 different political issues, each with 3 possible stances. That makes a &lt;a href=&quot;https://sebanalysis.github.io/2022/11/09/combinatronic-maths.html&quot;&gt;combinatronics&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Permutation#Permutations_with_repetition&quot;&gt;permutation with repetition&lt;/a&gt; problem, with \(20^3\) i.e. \(8000\) possible solutions. The likelihood of your alignment with any political party simultaneously on all of those issues is effectively \(0\). So debating which team to support is only useful as far as you are deciding how to temporarily compromise when you are asked to vote. Lifetime political party affiliation is just an advertisement of your own intellectual failure.&lt;/p&gt;
+
+&lt;h3 id=&quot;moving-dials&quot;&gt;Moving dials&lt;/h3&gt;
+
+&lt;p&gt;I see each political issues not as binary decision, but as spectrum. They can be thought of as dials which can be too low or too high at any given moment in time. Your political position is actually defined by what you thing needs to happen to those dials at any given moment. Do we need free-speech or moderation, rights or responsibility, regulation or liberalisation? Each of these dials, have a difference response when applied to a different scope: location, time-frame, topic.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prioritise market competition over wealth redistribution&lt;/li&gt;
+  &lt;li&gt;Prioritise actions over words&lt;/li&gt;
+  &lt;li&gt;Prioritise responsibility over rights&lt;/li&gt;
+  &lt;li&gt;Prioritise facts over feelings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The most important issue to me is to stop pursing the failed policy of redistribution of wealth through increased taxes and start demanding increased competition, efficiency and innovation. Remove the regulations that protect incumbent, monopolistic organizations from competition&lt;/p&gt;
+
+&lt;p&gt;Secondly, the entire political debate is occurring in an Overton window which priorities empathy over rationality.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Masculinity</title>
+   <link href="http://localhost:4000/2022/11/13/masculinity"/>
+   <updated>2022-11-13T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2022/11/13/masculinity</id>
+   <content type="html">&lt;p&gt;There is currently an epidemic of academic failure, sexless-ness and drug abuse amongst men and boys in west. If this is acknowledged at all, the politically correct belief is that &lt;em&gt;“men are; unable to talk about their feelings, being asked to man-up and are victims of toxic masculinity.”&lt;/em&gt; I don’t question that men being more socially transparent, will probably help deal with symptoms, but it does nothing to treat the root causes. I think that the root cause is a &lt;strong&gt;lack of purpose and dignity&lt;/strong&gt; in both their family and professional lives.&lt;/p&gt;
+
+&lt;p&gt;At the root of so many problems is in modern world is the fact that both men and women are largely wasting their productive lives doing tasks abstracted from reality, involving no bodily movement and creating no physical product. In many cases the employee even asserts when polled that their job is totally lacking any meaning altogether. Physically productive jobs don’t pay, rewards are disproportionately distributed to speculative and rent-seeking industries.&lt;/p&gt;
+
+&lt;p&gt;Women suffer this economic distress and social humiliation as much as men. The difference is that in the modern world men have to pass through an increasingly ruthless sexual selection filter. Men are increasingly sexless and single. Men are having less sex and have lower testosterone and have half the sperm count compared with men in the 80s. And those men that do manage to find a mate and start a family find they are no longer needed. Another issue that breeds deep resentment is that hypothetical ‘male privilege’ is now being counted against men as employers set implicit quotas in imbalanced industries which make application and advancement much more difficult.&lt;/p&gt;
+
+&lt;p&gt;Not only have they lost professional dignity, they have lost their personal dignity.&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-jobs-in-the-information-sector&quot;&gt;Abstract Jobs in the ‘Information Sector’&lt;/h3&gt;
+&lt;p&gt;The economy has become more abstract as it becomes exponentially more complex and Job roles are becoming exponentially more specialized. I mean &lt;a href=&quot;https://en.wikipedia.org/wiki/Exponential_growth&quot;&gt;exponential growth&lt;/a&gt; literally, as this is a situation in which a growing number of jobs grows an exponential number of interconnections and interactions, home for more jobs. But tied to complexity and less remarked-upon is the growing abstractness of our jobs. People are now working in what is best termed ‘the information sector’.&lt;/p&gt;
+
+&lt;p&gt;The US economy like all other OECD nations, largely employ’s people in the ‘service’ sector. Using the typical three sector model the &lt;a href=&quot;https://www.bls.gov/emp/tables/employment-by-major-industry-sector.htm&quot;&gt;break down&lt;/a&gt; is: agriculture: 1.5%, Industry (mining, manufacturing, construction): 13%, Service: 80% and, Self-Employed: 5.5%. As of 2016, in the UK tertiary(service) sector employs &lt;a href=&quot;https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/compendium/economicreview/april2019/longtermtrendsinukemployment1861to2018&quot;&gt;83.6%&lt;/a&gt; of people.&lt;/p&gt;
+
+&lt;p&gt;Taking the UK economy as an example, it can be seen that the share of jobs in the &lt;strong&gt;service sector&lt;/strong&gt; rose from 55% in 1966, to 83% in 2010, after which it has plateaued.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2022-11-13-masculinity_image_1.png&quot; alt=&quot;2022-11-13-masculinity_image_1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But the three-sector model was developed in the 1930’s and 40’s when the proportions were far more even and the nature of work was different. And the growth of the service sector has clearly not been in the provision of real services, rather in abstract services. This extended service sector or has typically been described as the finance, insurance and real-estate sector (FIRE).  Alternatively, the Wikipedia definition of a wider ‘&lt;a href=&quot;https://en.wikipedia.org/wiki/Quaternary_sector_of_the_economy&quot;&gt;quaternary sector&lt;/a&gt;’  is a vague one.&lt;/p&gt;
+
+&lt;p&gt;Under the current three sector model and these additional categories, workers are classified simply because of the sector of the company paying them, not the activity they are performing. The official figures suggest that 7.9% of the workforce engaged in manufacturing in the USA, 13% including mining and construction, but even in those physically productive industries, less than half are working in non-information roles in the real world. From 27:30: in &lt;a href=&quot;https://podcasts.apple.com/us/podcast/honestly-with-bari-weiss/id1570872415&quot;&gt;Larry Summers: The High Price of Getting it Right, Honestly with Bari Weiss&lt;/a&gt;](https://podcasts.apple.com/us/podcast/larry-summers-the-high-price-of-getting-it-right/id1570872415?i=1000576475537) from 18th August 2022.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Already in the United States, only about &lt;strong&gt;4%&lt;/strong&gt; of our workforce is involved in production work in manufacturing. You often hear the number “10% of the people are in the manufacturing sector”, but the majority of workers in manufacturing are accountants or personal assistants or marketing people or people who are doing something other than producing”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But I think there is a better definition: ‘the information sector’, one that represents a more relevant categorization for the modern world. In 1977 Marc Porat published &lt;a href=&quot;https://books.google.fr/books/about/The_Information_Economy_Definition_and_m.html?id=OwxKp3gvk_MC&amp;amp;redir_esc=y&quot;&gt;‘The Information Economy: Definition and measurement’&lt;/a&gt; (free download) where he proposed a more useful, but not widely adopted framing which classifies all jobs as ‘The Information Sector’ or non-information sector.  This model is takes into account the work they are performing rather than the sector of their employer. Already, in 1977, according to his definition 50% of the workforce participated in the information sector (page 120).&lt;/p&gt;
+
+&lt;p&gt;We are talking about administrators, consultants, clerical and accounting staff, IT professionals. This is the segment of the economy that has grown. In my experience a large proportional of this time is, people editing information as these move it between different Microsoft Office document formats and discussing it at length in meetings. Note the ‘information sector’ is not to be confused with the ‘&lt;a href=&quot;https://en.wikipedia.org/wiki/Information_industry&quot;&gt;information industry&lt;/a&gt;’ or the ‘&lt;a href=&quot;https://en.wikipedia.org/wiki/Information_technology&quot;&gt;IT sector&lt;/a&gt;’.&lt;/p&gt;
+
+&lt;p&gt;In 1992, &lt;a href=&quot;http://web.simmons.edu/~chen/nit/NIT%2792/175-hay.htm&quot;&gt;Robert M. Hayes, presented&lt;/a&gt;  an updated version of Mark Porat’s model with data extending to 1990, where information sector had risen to 55%. He clarifies that almost exactly half of this workforce is from Information sector companies, and half are employees from other sectors, whose activity is ‘information-oriented’. In Bullshit jobs, Graeber has cleaned-up and digitalized the 1992 graphics. But it is still terrible, so I have jankily coloured it in as below to show unambiguously that it is a stacked line graph:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2022-11-13-masculinity_image_2.png&quot; alt=&quot;2022-11-13-masculinity_image_2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am yet to find a 2022 version of this graph and I don’t think data is available. David Graeber notes in Bullshit Jobs:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“no one, to my knowledge, has pursued this particular breakdown through to the present”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But, to get a lower bound estimate of information sector jobs, assuming the same proportion of other sector workers are involved in information activities agriculture: 33%, industry: 44% and, services: 69%, as Hayes assumes in 1992, by reading the ratios from his graphs we would have an information sector employing of &lt;strong&gt;64%&lt;/strong&gt; of Americans. I would guess this to be even significantly more than this as administration roles across all industry sectors are well-known to have ballooned even since 1990.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Sector&lt;/th&gt;
+      &lt;th&gt;2022 Percent&lt;/th&gt;
+      &lt;th&gt;1992 Proportion of Sector Actually doing Information Activities&lt;/th&gt;
+      &lt;th&gt;2022 Information Workers Estimate&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Agriculture&lt;/td&gt;
+      &lt;td&gt;1.5%&lt;/td&gt;
+      &lt;td&gt;33%&lt;/td&gt;
+      &lt;td&gt;0.5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Industry (mining, manufacturing, construction)&lt;/td&gt;
+      &lt;td&gt;13%&lt;/td&gt;
+      &lt;td&gt;44%&lt;/td&gt;
+      &lt;td&gt;6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Service&lt;/td&gt;
+      &lt;td&gt;80%&lt;/td&gt;
+      &lt;td&gt;69%&lt;/td&gt;
+      &lt;td&gt;55%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Self-Employed&lt;/td&gt;
+      &lt;td&gt;5.5%&lt;/td&gt;
+      &lt;td&gt;assume 50%&lt;/td&gt;
+      &lt;td&gt;3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Total&lt;/td&gt;
+      &lt;td&gt;100%&lt;/td&gt;
+      &lt;td&gt;n/a&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;64%&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;In conclusion vast majority of people in the USA are doing entirely abstract jobs, totally disconnected from the real world.&lt;/p&gt;
+
+&lt;h3 id=&quot;bullshit-jobs&quot;&gt;Bullshit Jobs&lt;/h3&gt;
+&lt;p&gt;In addition to their abstractness, a large minority of people across the western world believe their jobs are totally meaningless.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;UK, 37%, &lt;a href=&quot;https://yougov.co.uk/topics/lifestyle/articles-reports/2015/08/12/british-jobs-meaningless&quot;&gt;YouGov, 2015&lt;/a&gt; &lt;strong&gt;Q: ‘Is your job making a meaningful contribution to the world’&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;✅’Is’: 50%&lt;/li&gt;
+      &lt;li&gt;‘❌Is not’: 37%&lt;/li&gt;
+      &lt;li&gt;❓’Don’t know’ 13%&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;USA, 24%, &lt;a href=&quot;https://today.yougov.com/topics/lifestyle/articles-reports/2015/08/14/one-quarter-americans-think-their-jobs-are-meaning&quot;&gt;YouGov, 2015&lt;/a&gt;. &lt;strong&gt;Q: ‘Do you think that your job is or is not making a meaningful contribution to the world?’&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;✅’Is’: 63%&lt;/li&gt;
+      &lt;li&gt;‘❌Is not’: 24%&lt;/li&gt;
+      &lt;li&gt;❓’Don’t know’ 17%&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Netherlands, 40%. URL for the original poll broken (“&lt;a href=&quot;http://overhetnieuwewerken.nl/vier-op-tien-werknemers-noemt-werk-zinloos/&quot;&gt;Vier op tien werknemers noemt werk zinloos&lt;/a&gt; , accessed July 10, 2017”), but it is referenced in &lt;a href=&quot;https://www.volkskrant.nl/columns-opinie/er-is-een-ongelooflijke-hoeveelheid-dode-tijd-bijgekomen~bcc09392/?referrer=https%3A%2F%2Fnews.ycombinator.com%2F&quot;&gt;this 2018 article&lt;/a&gt; which I have extracted from the HTML and translated &lt;a href=&quot;/assets/2022-11-13-masculinity_pdf_1.pdf&quot;&gt;in this PDF&lt;/a&gt;. It was apparently conducted by Schouten &amp;amp; Nelissen on 1,900 Dutch people after 2015 and claims the 40% of respondents replied that their job is meaningless. Although i’m unclear on the original question and response options.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All polls are difficult but this one particularly so because it is very sensitive to the exact phrasing of the question, should it focus on ‘meaning’, ‘value’, ‘utility’, ‘importance’. All of these are sensitive to the individual’s prejudices and self-image, and a comprehensive definition is not provided. Secondly, this question is an existential one as work gives structure and meaning to one’s life. It is not trivial to attest that your life’s work was wasted. Individuals are best placed to understand the value of their own role, but they are perhaps the most likely to defend it’s importance, for the sake of their own ego and self-worth. But this means that then an individual claims his job is useless, we should believe him.&lt;/p&gt;
+
+&lt;h3 id=&quot;speculative-jobs&quot;&gt;Speculative Jobs&lt;/h3&gt;
+&lt;p&gt;I have written separately about the growth of speculation as an excellent source of wealth capture which provides no productive output.  Speculating on assets is a better investment of your time if you have better than average market information or you have good risk management techniques.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2022-11-13-masculinity_image_3.jpeg&quot; alt=&quot;2022-11-13-masculinity_image_3.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From https://wtfhappenedin1971.com/&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It just seemed to make sense that, just as Wall Street profits were derived less and less from firms involved in commerce or manufacturing, and more and more from debt, speculation, and the creation of complex financial instruments, so did an ever-increasing proportion of workers come to make their living from manipulating similar abstractions. Bullshit Jobs, David Graeber, 2020.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Suffice to say is clear to all of educated society knows this, especially &lt;a href=&quot;https://nypost.com/2022/07/23/nancy-and-paul-pelosi-are-trading-large-with-a-wealth-of-hypocrisy/&quot;&gt;Nancy Pelosi definitely knows this&lt;/a&gt; who has because amazing rich from her $200,000 a year salary. Michel Houellebecq had summed it up well in Plateforme in 2001:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;‘Valerie’s father was forty-eight, his wife, forty-seven; they had dedicated the best years of their lives to a hopeless task. They lived in a country where, compared to speculative investment, investment in production brought little return; he understood that now’.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Life is already unfair, but the certainty that your productive job, is worse paid than a trading job, is especially depressing.&lt;/p&gt;
+
+&lt;h3 id=&quot;gloomy-vs-glossy-jobs&quot;&gt;Gloomy vs Glossy Jobs&lt;/h3&gt;
+&lt;p&gt;As you progress through the your working life, you become aware of a career hierarchy, if you were not already. You discover that society is not really divided into three classes. It is divided into the rich and the poor. And its not between the billionaires and everyone else. It is more between those with the elite jobs and everyone else. These elite jobs since, the 80’s have been Investment Banking, Management Consulting, Corporate Law, Private Medicine and more recently Big-Tech.&lt;/p&gt;
+
+&lt;p&gt;Daniel Markovitz’s 2019 book ‘The Meritocracy Trap’ focuses on the top 1% and the top 4% that surrounds them and might one day be in the top 1%. Almost all the income growth in America has happened there in the last 30 years. The top 1 percent of households now captures about a fifth of total income.&lt;/p&gt;
+
+&lt;p&gt;In Chapter Six he talks about glossy and gloomy jobs and states:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The top jobs pay so well because a raft of new technologies has fundamentally transformed work to make exceptional skills enormously more productive than they were at midcentury and ordinary skills relatively less productive.
+…
+The more lyrically minded have said that the labor market is increasingly divided up into “lousy” jobs that require little training, involve simple work, and pay low wages, and “lovely” jobs that require elaborate educations and provide interesting and complex work at high pay.
+… 
+This lyricism, however, ignores the most important harms that the transformation of the labor market imposes. It papers over the fact that the lousy jobs are not just boring and low-paid but also—indeed, specifically on account of job polarization—carry low status and afford no realistic prospects for advancement. 
+…
+It is therefore more apt to say that the labor market has divided into gloomy and glossy jobs: gloomy because they offer neither immediate reward nor hope for promotion, and glossy because their outer shine masks inner distress.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The vast majority of people are working these gloomy jobs with:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;“little training, involve simple work, and pay low wages”&lt;/li&gt;
+  &lt;li&gt;“carry low status and afford no realistic prospects for advancement”&lt;/li&gt;
+  &lt;li&gt;“offer neither immediate reward nor hope for promotion”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-destruction-of-the-middle-class&quot;&gt;The Destruction of the Middle Class&lt;/h3&gt;
+
+&lt;p&gt;The middle class has already been thoroughly destroyed in his Podcast with Sam Harris, &lt;a href=&quot;https://pca.st/episode/ef51d089-fec5-47ba-82e6-f247ca69be16&quot;&gt;#205 - The Failure of Meritocracy&lt;/a&gt; May 23rd 2020. 
+For kids born in 1940, almost all became richer than their parents. Only the top 95% percentile were not certain to be richer than their parents.&lt;/p&gt;
+
+&lt;p&gt;Markovitz then summaries the class resentment that this produces:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;All the elite jobs, law firms, investment banks, management jobs, specialist medical doctors require one to have gone through a version of this fancy education. Those institutions exclude middle and working class families by the number of hoops required to jump through. Unless you are incredibly exceptional, you will not have enough privilege to get along.
+Those that are excluded get appropriately angry and resentful and turn against the institutions, the professional companies, the forms of expertise, the schools that people on the outside correctly think are underwriting their disadvantage and exclusion. A populist like trump exploits that class resentment. Trump inherited a lot of money, but is not part of this system of training, education and professional certification that people correctly see as the principle source of their exclusion. Not his inheritance.
+All the doctors and lawyers and bankers and CEOs and elite managers, who are training their kids and getting them into the best schools and buying houses in the best neighbourhoods and getting them into the best colleges is what keeps most Americans down.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But on top of the purely economic wound, unlike mid-ce&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Managerial Capitalism</title>
+   <link href="http://localhost:4000/2022/11/13/managerial-capitalism"/>
+   <updated>2022-11-13T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2022/11/13/managerial-capitalism</id>
+   <content type="html">&lt;p&gt;Our post-1970 economic situation is best defined as managerial capitalism. It is a highly ordered, system with a well defined set of rules on how to excel. Success is measured only by financial success. The average intelligence person who receives the sufficient support will achieve this success by following a limited number of pre-packaged careers: banking, management consulting, financial analysis or auditing. This set of rules is only known to an elite sub-section of society, and there is an elaborate argument made about the utility of these careers that provide a defense for the status quo. We, the west, live in a low-innovation equilibrium state where oligarchic monopolistic companies dominate the economy and have achieved regulatory capture.&lt;/p&gt;
+
+&lt;p&gt;The key characteristic of the managerial society which contrasts with the bourgeois capitalism of the past is that organizations are no longer owned by the people who operate them. The transition of America from a ‘bourgeois-‘, to a ‘managerial-‘ society was analysed in &lt;a href=&quot;/assets/2022-11-13-managerial-capitalism_pdf_1.pdf&quot;&gt;James Burnham - ‘The Managerial Revolution: What is Happening in the World’&lt;/a&gt;. We have gone from maker’s to managers’ world and yet, inequality has been rising in the USA since 1971.&lt;/p&gt;
+
+&lt;p&gt;The podcast &lt;a href=&quot;https://www.samharris.org/podcasts/making-sense-episodes/290-what-went-wrong&quot;&gt;Sam Harris - Making Sense #290 - What Went Wrong? - A Conversation with Marc Andreessen&lt;/a&gt; from July 21, 2022 presents an excellent summary of the situation.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The term professional–managerial class (PMC) refers to a social class within capitalism that, by controlling production processes through occupying a superior management position, is neither proletarian nor bourgeois&lt;/p&gt;
+
+  &lt;p&gt;Marc Andreessen (@pmarca) &lt;a href=&quot;https://twitter.com/pmarca/status/1520581769342332929?ref_src=twsrc%5Etfw&quot;&gt;May 1, 2022&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Marc Andreessen is skeptical of Piketty’s thesis is that returns to capital are significantly greater than returns to labor. But where they agree is on the excessive financialization of everything. But rather than concluding that the problem is capitalism itself, Andreessen asks ‘do we actually live in a capitalist market economy or a managed oligopolistic economy that is intertwined with the government?’. The economy is dominated by sector after sector of old-line, fortune 500 monopolistic entities that are nominally private companies but in reality they have achieved regulatory capture. Every now or then we’ll get an Elon Musk and Jeff Bezos, but we are largely insulated from innovating technologists.&lt;/p&gt;
+
+&lt;p&gt;There are two contrasting policies which encapsulate the problem: in 1970, the &lt;a href=&quot;https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency&quot;&gt;Environmental Protection Agency&lt;/a&gt; (EPA) was founded to regulate all pollution. And in 
+1973, &lt;a href=&quot;https://en.wikipedia.org/wiki/Project_Independence&quot;&gt;Project Independence&lt;/a&gt; was launched, which like the French aimed at total energy independence by the  year 2000. It surveyed all the available tech and concluded that nuclear was the answer. 
+These are &lt;em&gt;equally&lt;/em&gt; important projects but the regulation progressed without problems but no nuclear power was delivered.&lt;/p&gt;
+
+&lt;p&gt;We live in a society where only the ‘seen’ is taken into account. The ‘unseen’, that is the costs from &lt;em&gt;not&lt;/em&gt; taking action are not effectively appraised. The same can be said of the lack of COVID challenge trials. Our governments are incapable of taking calculated risk. But in the additional 6-9 months, when we waited for the double blind trials to complete, millions vaccine-preventable deaths occurred. The one good thing is work injuries are down.&lt;/p&gt;
+
+&lt;p&gt;53:00:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marc: “When you have a startup today, an Elon Musk or Jeff Bezos, or me, we represent a rump-return of bourgeois capitalism. Amazon was a bourgeoise capitalist exercise which is now being absorbed into the managerial oligarchy. The new CEO is a large owner or a founder. The reason startups and venture capital exists is because managerial capitalism is very good at administering large scale monopolies and oligopolies over a long period of time, but is very bad at doing anything new. The is no managerial team at any big company or any big government organization that wakes up in the morning that says “Hey, I know, I’m gonna do some crazy new thing. And if it succeeds we’re gonna be heroes and if it fails we’re probably all gonna get fired. They never do that”.”&lt;/p&gt;
+
+  &lt;p&gt;Sam: “So the  is the problem in the principle agent problem is the misalignment of incentives?”&lt;/p&gt;
+
+  &lt;p&gt;Marc: “Exactly, 100%. If you are a Fortune 500 CEO, you’re going to make 50 million dollars a year as long as you don’t get fired. A number one priority for you in your life is; « I’m going to hold on to this job for as long as I possibly can ». And every year that goes by is 50 million bucks in the bank, generational wealth for my family for 1000 generations to come. Don’t get fired, Don’t get fired, Don’t get fired. So how do you go about not getting fired; don’t change anything, don’t do anything, take no risk, do not go out on a limb, do not try new things, don’t try and do new new things. Don’t do anything that is going to perturb. I have a CEO friend whose colloquialism is;; you don’t fuck with the magic. Its working; you just don’ not break it. This is what they teach a Stanford business school and Harvard Business School: you run it, by managing. They call it management school for a reason. You manage it, you run it. You do not break it, you don’t take risk. So as a consequence they don’t make new things. So as a consequence, the arbitrage opportunity, the ability to make money by making new things falls on your Jeff Bezos, your Elon Musk, the people we fund and back to start new companies in the model of the previous form of capitalism which was bourgeois capitalism. But we are a rounding error on the system. If you total up all venture capital and all privately backed tech companies and by the way, tally the number of companies in the fortune 500 that are still run by their founders, its like 6. So the old model of capitalism keeps coming back because you can make money doing it because its its the only way you can do new things. But managerial capitalism runs the economy. And managerial capitalism broadly runs the the system, the state that we live under. It spans the fortune 500, the big companies, the government bureaucracies, the press, the universities, its a classical oligarchic class. They are all agents, they’re zero-principles. Nobody is in charge, no body has the power, nobody has accountability, no body has any of this stuff and they do what they do and we expect this system to do things differently and do things they used to do in the old days. Like for example, why don’t we have any new cities. Where are the new bridges, the new freeways, the new reactors, the factories for PPE for COVID, the new chip plants. And then we wake up 50 years into this and we’re like we don’t have any of those things, we can’t do any of those things any more. And this is my big conclusion. This is the system we designed and we wanted it. Its weird because its like a shadow. Its not the constitution as its written, its some other thing, but whatever, but whatever it is its obviously much more important. As far as I can tell we’ll just keep running like this in perpetuity and see what happens.&lt;/p&gt;
+
+  &lt;p&gt;Sam: “It sounds like lurking in there is some nostalgia for something like autocracy because the difference capitalism is all these extra people who don’t have enough skin in the game to error correct and be motivated appropriately by the mass of opportunities, and what you want to be able to pivot back to is the founder led version where is essentially North Korea where the guy with bad hair at the top can decide everything “&lt;/p&gt;
+
+  &lt;p&gt;Marc: “Lets go to founding of the city of Los Angeles”&lt;/p&gt;
+
+  &lt;p&gt;…Literally what they did was take out ads with drawings of the garden paradise of los angeles.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We chose to go from a sort of bourgeois culture. An aristocratic talent selection process, sort of this world of power pre cold war and then cold war thing where we decided to develop the country and build all these things and then in 1960s and 1970s, we decided we didn’t want that anymore and we decided we wanted an oligarchy instead of an aristocracy and we decied we wanted managerial capitalism instead of bourgeois captialism and we decied we wanted lawyers in charge of everything and we&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-pretense&quot;&gt;The Pretense&lt;/h2&gt;
+
+&lt;p&gt;There are a number seemingly benevolent systems and institutions who ostensibly exist for some (often tautological) reason, but really exist to provide a shield or veneer of legitimacy to some other less savory systems and institutions. Note the reoccurring theme of ‘ostensible-‘ rather than ‘actual-‘ reasons-for-existing.&lt;/p&gt;
+
+&lt;p&gt;The widening gulf between rich and poor and compounded with a weakening ability of these dual-purpose organisations to keep the public credulous (where that public has a growing availability of de-centralised, grass-root information sources) is resulting in unprecedented levels of both distrust of institutions and class-resentments.&lt;/p&gt;
+
+&lt;p&gt;But in the same way that the regulatory gate-keepers of managerial-capitalism de-legitimise new technological solutions that could challenge the economic status-quo, the intellectual authorities (mainstream media and Universities) are not interested in describing the situation using a model that represents present reality because that would challenge the very context in which they exist. Mainstream news organisations like the guardian and the NYC, have patently aligned partisan agendas. And higher education is one of a number of industries, now administration-dominated, due to managerial capitalism.&lt;/p&gt;
+
+&lt;p&gt;A devils advocate line of questioning might be:  _“You suggest there is a lack of social and political theoretical innovation, but we have seem sweeping changes in behavior in favor of social justice movements.”&lt;/p&gt;
+
+&lt;p&gt;Progressivist identity politics has arisen whilst economically left wing an that now controls the norms of polite society currently causing deep changes to behavioral norms and institutional practices.  To name a few: MeToo, Trans-Rights and BLM sweep western world. But the lack of economic relevance of these movements is precisely the reason for their success. Notice that the ‘social-progress’ has been limited social identity groups: sex, gender-identity, sexuality, race, abled-ness and, (a certain) religion. It costs very little for a corporation to create arbitrary rules on identity, especially when their revenue is related more to their ability to maintain regulatory control than deliver effective market competition.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2022-11-13-managerial-capitalism-image-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The result is, that we are still stuck with 18th, 19th and early 20th century political terms like left-right, communist-fascist. And in the same way that the terms ‘safety’ and ‘quality’ are used to clobber any technical innovation, the terms ‘sexist, racist and fascist’ are used to clobber any ideological innovation. Our cultural imperative of tolerance and human rights, born after the allied victory in WW2 has become a peerless political weapon.&lt;/p&gt;
+
+&lt;p&gt;But this weapon has been wielded all too liberally in recent years. The freehandedness with which these virtue signaling accusations are dolled out is one thing, but often those dealing them cannot pretend to have even shred of integrity themselves. And the patent triviality of these word games contrast gravely with the consequences the victims have to bare. Our worst taboos are tripwires to every comment we make on a difficult issue and the result is a conversational status quo, with ever increasing puritanical controls. The word game has also become a total farce to everyone involved, a theatre without any meaning beyond itself. Was it ever thus? No, and even if it were, it needs to be urgently reformed.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fires will be kindled to testify that two and two make four. Swords will be drawn to prove that leaves are green in summer. We shall be left defending, not only the incredible virtues and sanities of human life, but something more incredible still, this huge impossible universe which stares us in the face. (G.K. Chesterton, &lt;a href=&quot;https://www.goodreads.com/work/quotes/1884008&quot;&gt;Heretics&lt;/a&gt;, first published 1905)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Almost everything is about signaling and prestige, almost nothing is about figuring out reality, hence, for example, why media coverage of politics seems to be deranged and surreal to those who are the objects of the coverage. Paul Graham: the media constantly spreads false memes about startups and success.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Management Perspectives From The Bottom</title>
+   <link href="http://localhost:4000/2022/11/13/management-perspectives-from-the-bottom"/>
+   <updated>2022-11-13T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2022/11/13/management-perspectives-from-the-bottom</id>
+   <content type="html">&lt;h2 id=&quot;preface&quot;&gt;Preface&lt;/h2&gt;
+
+&lt;p&gt;A oral history, for something cultural like the transmission of values in a company, is much more effective that a set of written values because each transmission is also accompanied by some human trust and emotion which adds much needed authenticity. Oral history is also never remembered verbatim. With each transmission, it is rehashed and reformed and recalibrated to bring it closer to the truth. As different chains of Chinese whispers diverge and find conflicts when the re merge, there is an opportunity for improvement and adaptation of the ideas.&lt;/p&gt;
+
+&lt;p&gt;As text is just a temporary abstraction from the real world, writing values down is useful as a way to capture a freeze frame of an ever evolving ever iterating and iterating story. Values are not cold facts, they are the demonstrated actions of individuals, borne out by their behavior. Treating the codified values as dogma is a recipe for stagnation and decline in civil virtue.&lt;/p&gt;
+
+&lt;h2 id=&quot;purpose-of-business-values&quot;&gt;Purpose of Business Values&lt;/h2&gt;
+
+&lt;p&gt;The normal state of business is one ruled by nepotism. It is also motivated by short-term, empty profit-seeking or rent-seeking tasks that provide no added value, typically by exploiting the client’s ignorance or poor regulatory calibration. The forces of human nature are dragging an organisation in this direction at every moment. But greatness lies in defying the odds to build something better. The purpose of values should therefore be to explicitly resist the natural pull towards degeneration.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“Every great cause begins as a movement, becomes a business, and eventually degenerates into a racket.”&lt;/em&gt; (Eric Hoffer, &lt;a href=&quot;https://www.goodreads.com/work/quotes/1210985&quot;&gt;The Temper of Our Time&lt;/a&gt;, a collection of essays published in 1996)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As the organisation grows, resisting this becomes even more difficult and incentives become ever more disaligned and work politics eat into decision making efficacy.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Any organization with a large, protected income will tend by default toward administrative bloat. It’s the same in government, at Harvard, at Google. Unless you take explicit measures to avoid it, you’ll overhire. And then you have a second problem: all the unnecessary people you’ve hired become a drag on the necessary ones. The unproductive people need to seem like they’re achieving something, so they’ll organize meetings to waste the time of the productive ones. If anyone has avoided administrative bloat, it might be DARPA. They seem to have a culture of explicitly avoiding the pitfalls of bureaucracy. (Paul Graham, &lt;a href=&quot;https://twitter.com/paulg/status/1588113756189597696?s=20&amp;amp;t=-KxfSin4Qlyzie-TEeguDA&quot;&gt;Twitter&lt;/a&gt; 2022)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bearing this in mind, the following is an attempt to summaries my key antidotes to the entropy.&lt;/p&gt;
+
+&lt;p&gt;My philosophy or management consists of 3 words: Transparency, simplification, the goal.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Transparency: Wages, roles, tasks, responsibilities, motivations: everything will be open and obvious to all involved. There should be no pretense about the differing financial motivations and incentives of wage laborers and those with shares.&lt;/li&gt;
+  &lt;li&gt;Simplification:  Remove requirements and processes that do not serve the goal. The more abstract, generally the more useless. People should never be paid to justify their own job. They should be incentivised to automate or remove the need for it and then be promoted as they now do the work of multiple people.&lt;/li&gt;
+  &lt;li&gt;The goal: The purpose of the business is to make money from delivering a product. I refuse to rent seek or justify it as ‘operating under the fiduciary responsibility to shareholders’. This only moves humanity backward. What is required to motivate people is a constant awareness of the goal. We should work to constantly and iteratively redefine the goal.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Work should be useful. Work is rewarding not when it is ‘fun’ but when you can see the underlying purpose of the enterprise and you are shouldering the load. It is possible to motivate people to show up and comply via pure financial incentives, but it is not possible to make them benefits the company by sacrificing the expedient for the correct.&lt;/p&gt;
+
+&lt;p&gt;I will never run a racket.&lt;/p&gt;
+
+&lt;p&gt;Logistical management of the office itself a priority: simplify all processes and interactions.
+Any organizational fluff and documents will be ruthlessly removed at the earliest sign of their redundancy.
+Relevant organization charts and abstract processes will be physically placed on the wall.
+I will not micromanage. 
+I will take ultimate ownership for everything.
+I will instill the sense that I judge my employees based on the work they produce, not the time they spend.
+Documents to avoid the passive voice wherever possible. It is not a sign of professionalism to remove the subject of a verb. 
+Tick-boxing exercises to be avoided entirely. Where legally necessary, they will be acknowledged as such and excecuted with awareness.
+Work will thus be divided into either real or tickbox, and the distinction will be acknowledged.
+Everything that can be automated will be automated including HR. 
+I cannot manage a large company, it is not my desire to do so. I have to know the entire vertical supply chain for it to function properly.
+Everything to be viewed through the lens of how it enhances the company’s real and tickbox labour efficiency. This is to be known as ‘solving problems’. All focus to be placed on solving problems. 
+Review relevance of regular ongoing meetings.
+You need a physical office for new employees. Those with longer running relationships still need regular meet-ups.&lt;/p&gt;
+
+&lt;h3 id=&quot;attitude-and-trust-ahead-of-adherence-and-dogma&quot;&gt;Attitude and Trust Ahead of Adherence and Dogma&lt;/h3&gt;
+
+&lt;h2 id=&quot;the-archetypal-dysfunctional-work-interaction&quot;&gt;The archetypal dysfunctional work interaction&lt;/h2&gt;
+
+&lt;p&gt;The archetypal dysfunctional work interaction occurs when establishing tasks, discussing solutions, requesting assistance, giving imperative commands and appraising work.&lt;/p&gt;
+
+&lt;p&gt;You approach your colleague with the intention of resolving something. Their response does not answer the question, so you assume they have not understood it. You are forced to rudely interrupt and reverse in order to recalibrate to the point in question. Again your colleague introduces complexity without addressing the point. You assume that you must be lacking understanding of the problem. You assume that your colleague is charitably trying to explain the by adding the complexity as necessary context delivered in good faith in order to explain the point in question. Why would someone mention it if it were irrelevant.&lt;/p&gt;
+
+&lt;p&gt;You ultimately &lt;em&gt;need&lt;/em&gt; an answer so you declare this lack of understanding to your colleague and thus demote your reputation and establish him the authority in the relationship. You spend some time, maybe a week or a few days reading around the topics he advised. You waste time, you don’t understand the text. The words are leaves blowing in the wind without a branch of knowledge to bind to. You eventually realize that the material doesn’t address the question. You ask other people in the organization for direction but they all point you back to the original colleague.&lt;/p&gt;
+
+&lt;p&gt;You are confused, you are frustrated. If you ask the original colleague again you will be directly challenging his newly established authority if you explicitly state that the material is not applicable. You decide to present the colleague with the material itself, and ask questions related to it. He brings up more material and more complexity. You are now more confused so you try something else. You go through the material and do a sort of live Q&amp;amp;A. You weave through focusing on granular facts and suggest a connection to the the main body of knowledge to try and guide him into forging a link. He fails to see the relevance at each timer and instead explains further extraneous points. You have further degraded your authority with each failure to find a link.&lt;/p&gt;
+
+&lt;p&gt;Now you are more frustrated. You are effectively left with 2 options. 1. Call out your colleague directly for purposeful or ignorance obfuscation or 2. Try and move on to something else.&lt;/p&gt;
+
+&lt;p&gt;You are forced to choose option 2. You are not is a position to question authority. But there is only a certain number of times you can ignore fundamental questions before you loose faith in the whole enterprise and totally forsake your civil virtue. Inevitably, your trust collapses and you play work politics just to survive.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bullshit Jobs</title>
+   <link href="http://localhost:4000/2022/11/13/bullshit-jobs"/>
+   <updated>2022-11-13T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2022/11/13/bullshit-jobs</id>
+   <content type="html">&lt;h1 id=&quot;types-flunkies&quot;&gt;TYPES## Flunkies&lt;/h1&gt;
+&lt;p&gt;Jobs that only serve to improve the reputation, image or perceived value. A product of vanity.
+e.g. certain receptionists or P.A.s where there are no calls to take&lt;/p&gt;
+
+&lt;h2 id=&quot;goons&quot;&gt;Goons&lt;/h2&gt;
+&lt;p&gt;Jobs that exist in adversarial situations because the competitor has them. Prisoners dilemma, destructive competitiveness, manufactured demand, excessive supply, con schemes, services and shit you don’t need.
+e.g. Armies, Corporate Lawyers,&lt;/p&gt;
+
+&lt;h2 id=&quot;duct-tapers&quot;&gt;Duct tapers&lt;/h2&gt;
+&lt;p&gt;Jobs that exist to treat symptoms rather than the root cause of a problem. Shortsighted, temporary remediation. Lack of long term strategy. 
+e.g. IT people who spend all their time repairing out of date systems,&lt;/p&gt;
+
+&lt;h2 id=&quot;box-tickers&quot;&gt;Box tickers&lt;/h2&gt;
+&lt;p&gt;Jobs dominated by compliance or paperwork that exist only because the value in the paperwork, accreditation, or analysis is more important than actually doing the task itself. Allows an organisation to claim it is doing something that it is not doing. Value of third party accredited qualifications or approved documentation greater than personal trust. Ass covering, fear of liability, obsession with compliance over competence.
+e.g. Bullshit corporate training, Consultancy Companies forcing meaningless charity events on employees purely to meet the criteria of Times top 100 employers list.&lt;/p&gt;
+
+&lt;h2 id=&quot;taskmasters&quot;&gt;Taskmasters&lt;/h2&gt;
+&lt;p&gt;Unnecessary levels of supervision They act as liability buffers or simply because upper management has a lack of trust in lower ranks and won’t allow them to operate independently. 
+e.g. Middle management, project managers, finance people
+Examples in nucleargrads:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;tediously long and formal emails -box ticking&lt;/li&gt;
+  &lt;li&gt;training courses that are twice as long as they need to be and deliver very little ostensible value. - duct taping and box ticking&lt;/li&gt;
+  &lt;li&gt;the appearance of doing work over inherent values. I.e. the ability to discuss the work in appraisal and have a substantial document to support it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They should put us in a room and try to make us solve Sellafield. Come up with a plan. figure it out ourselves. give us access to loads of technical information&lt;/p&gt;
+
+&lt;h2 id=&quot;reasons&quot;&gt;Reasons&lt;/h2&gt;
+
+&lt;p&gt;Rent seeking - exploitation of defined rules to accrue wealth but not deliver value. Striving to become gatekeepers who deliver no value but exists as a bureaucratic lynchpin.&lt;/p&gt;
+
+&lt;p&gt;Decadent listlessness - drives need to convince people they need to buy things they don’t need or to do things that defy common sense&lt;/p&gt;
+
+&lt;p&gt;Loss of community, lack of trust and total reliance on litigation. Breakdown of real personal relationships due to corporate mobility, burgeoning organisations of strangers entirely reliant on processes, impersonal interactions. People never work where they grow up, and move jobs every few years.&lt;/p&gt;
+
+&lt;p&gt;Protectionism - maintaining copyright or intellectual property which prevents ability to collaborate and creates unnecessary red-tape around useful data.&lt;/p&gt;
+
+&lt;p&gt;Short Term Thinking to meet immediate management or shareholder requirements - need for immediate profit moves investment away from solving the root cause of problems.&lt;/p&gt;
+
+&lt;p&gt;No workplace freedom suppression - A lot of bullshit in the workplace comes from the inability to speak your mind as  result of being constantly on the record. This means that truths are not communicated effectively. In order to humanize the office. Managers may use unnatural ‘creativity’ exercises to build false rapport.&lt;/p&gt;
+
+&lt;p&gt;Paying for someone’s time rather than for the completion of a tasks or delivery of value. This is a perverse incentive. Too often, employees function as serfs, being paid to appear busy to their colleges and managers. Managers are often content to incubate their egos through the illusion their underlings are working, even if they are not doing anything useful.&lt;/p&gt;
+
+&lt;p&gt;Reality doesn’t matter as much as legal compliance or the paper-trail. eg. Museum guard not allowed to read any novels while guarding an empty room. e
+e.g. Girl who completed all exams and received good grades but emotionally was not capable of completing documentation to register these results.&lt;/p&gt;
+
+&lt;p&gt;Personal experiences: security incident - being reported up each stage of the chain. I was punished because I believed the lies I was told in the security training session that ‘there is no stupid question about security’.&lt;/p&gt;
+
+&lt;p&gt;It is for this reason that the commercial world feels exceptionally hollow. Our interactions are with institutions akin to a catholic church. An elaborate façade to keep up appearances, smiling faces, shiny expensive pamphlets with perfect ethnic and gender diversity, automated tannoy messages declaring how they are truly sorry they are for your delay, self declared ‘polite notices’. At a deeper level, you find jobsworths who will obstiantly impose on you rules that they have no shame in denying any understanding of nor in professing a lack of any personal or professional compulsion to find out why they are imposing these rules.&lt;/p&gt;
+
+&lt;p&gt;A basic axiom of my world view, baked into me from parents and school, clearly from a by-gone age, is that work should have a purpose that benefits humanity. Institutions of existence and I find this society wide presence unbearable. Each failure of an individual to speak what he or she knows to be true for the sake of personal expediency is an incremental step towards tyranny.&lt;/p&gt;
+
+&lt;p&gt;At the core of our economy lies the truth that it is perceived value that matters, not actual value. All that matters to stock charts and projections and the betting market of investment is belief. Belief that something has value is the route to accruing confidence. It matters not whether that something has any actual value as determined by common sense.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-counter-argument&quot;&gt;The counter-argument&lt;/h1&gt;
+
+&lt;p&gt;Shortly after Graeber released his essay, the economist published a rebuttal which argued that the purposeless feeling of the modern working world was an illusion. The incomprehensible these jobs was simply due to the inherent complexity of an advanced economy. That people simply cannot understand the utility of their role from their narrow, local perspective, but that, viewed holistically, they do function as a cog in a greater machine.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
