@@ -1,9 +1,9 @@
 ---
 layout: post
 ---
-<!-- <script type="text/javascript" id="MathJax-script" async
+<script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script> -->
+</script>
 
 Supporting a political party is like supporting a sports team. Even if you limited your concern to just 20 different political issues, each with 3 possible stances. That makes a [combinatronics](https://sebanalysis.github.io/2022/11/09/combinatronic-maths.html) [permutation with repetition](https://en.wikipedia.org/wiki/Permutation#Permutations_with_repetition) problem, with $$20^3$$ i.e. $$8000$$ possible solutions. The likelihood of your alignment with any political party simultaneously on all of those issues is effectively $$0$$. So debating which team to support is only useful as far as you are deciding how to temporarily compromise when you are asked to vote. Lifetime political party affiliation is just an advertisement of your own intellectual failure.
 

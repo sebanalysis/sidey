@@ -1,7 +1,9 @@
 ---
 layout: post
 ---
-# TYPES## Flunkies 
+# TYPES
+
+## Flunkies 
 Jobs that only serve to improve the reputation, image or perceived value. A product of vanity.
 e.g. certain receptionists or P.A.s where there are no calls to take
 

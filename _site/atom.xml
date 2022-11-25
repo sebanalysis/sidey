@@ -4,7 +4,7 @@
  <title>Sidey</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-25T01:34:16+01:00</updated>
+ <updated>2022-11-25T02:06:05+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -17,9 +17,8 @@
    <link href="http://localhost:4000/2022/11/13/political-wish-list"/>
    <updated>2022-11-13T00:00:00+01:00</updated>
    <id>http://localhost:4000/2022/11/13/political-wish-list</id>
-   <content type="html">&lt;!-- &lt;script type=&quot;text/javascript&quot; id=&quot;MathJax-script&quot; async
-  src=&quot;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&quot;&gt;
-&lt;/script&gt; --&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; id=&quot;MathJax-script&quot; async=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&quot;&gt;
+&lt;/script&gt;
 
 &lt;p&gt;Supporting a political party is like supporting a sports team. Even if you limited your concern to just 20 different political issues, each with 3 possible stances. That makes a &lt;a href=&quot;https://sebanalysis.github.io/2022/11/09/combinatronic-maths.html&quot;&gt;combinatronics&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Permutation#Permutations_with_repetition&quot;&gt;permutation with repetition&lt;/a&gt; problem, with \(20^3\) i.e. \(8000\) possible solutions. The likelihood of your alignment with any political party simultaneously on all of those issues is effectively \(0\). So debating which team to support is only useful as far as you are deciding how to temporarily compromise when you are asked to vote. Lifetime political party affiliation is just an advertisement of your own intellectual failure.&lt;/p&gt;
 
@@ -362,7 +361,9 @@ You need a physical office for new employees. Those with longer running relation
    <link href="http://localhost:4000/2022/11/13/bullshit-jobs"/>
    <updated>2022-11-13T00:00:00+01:00</updated>
    <id>http://localhost:4000/2022/11/13/bullshit-jobs</id>
-   <content type="html">&lt;h1 id=&quot;types-flunkies&quot;&gt;TYPES## Flunkies&lt;/h1&gt;
+   <content type="html">&lt;h1 id=&quot;types&quot;&gt;TYPES&lt;/h1&gt;
+
+&lt;h2 id=&quot;flunkies&quot;&gt;Flunkies&lt;/h2&gt;
 &lt;p&gt;Jobs that only serve to improve the reputation, image or perceived value. A product of vanity.
 e.g. certain receptionists or P.A.s where there are no calls to take&lt;/p&gt;
 
